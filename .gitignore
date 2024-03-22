@@ -11,6 +11,10 @@ out/
 *.ipr
 *.iws
 
+# vs code
+
+.vscode/
+
 # fabric
 
 run/
